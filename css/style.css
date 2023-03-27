@@ -67,6 +67,7 @@ section.cover-form{
 }
 
 .form-container{
+	z-index: 2;
 	position: absolute;
 	right: 30px;
 	top: -2.5%;
@@ -139,6 +140,7 @@ section.chamada .icone-seta{
 }
 
 section.chamada{
+	z-index: 1;
 	width: 100%;	
 	text-align: center;
 	position: relative;
