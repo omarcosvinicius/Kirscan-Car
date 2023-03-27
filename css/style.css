@@ -140,6 +140,7 @@ section.chamada .icone-seta{
 }
 
 section.chamada{
+	margin-top: 2px;
 	z-index: 1;
 	width: 100%;	
 	text-align: center;
